@@ -34,13 +34,15 @@ a:hover{
 
 header#cabecalho img#icone{
     position: absolute;
-    left:780px ;
-    top:70px ;
+    left:900px ;
+    top:45px ;
+    float-displace: auto;
+
 }
 
 header#cabecalho{
    border-bottom: 1px#606060 solid;
-   height: 150px;
+   height: 160px;
     background: url(../_imagens/glass-logo-peq.jpg)no-repeat 0px 80px;
 }
 
